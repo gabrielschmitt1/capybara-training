@@ -1,0 +1,1 @@
+Projeto para conhecimento do framework Capybara
